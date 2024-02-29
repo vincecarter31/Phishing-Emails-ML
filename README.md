@@ -1,0 +1,6 @@
+This is a project where I am utilizing machine learning and natural lanuage processing techniques to distinguish between normal emails from phishing emails. I used the simplest machine learning model: Naive Bayes, to far more entropic models, 
+such as neural networks. I am hoping to show beginners and perhaps even intermediate level programmers new data cleaning, machine learning, and NLP techniques. The code is documented to allow everyone understand what is being done. The code 
+uses regex, multiple databases and pre-trained models, such as the stop word database (to remove stop words), wordNet (to obtain a corpus), and the punkt package (a pre-trained model for tokenizing (splitting text into a list of sentences or words)),
+which are all very effective for cleaning and enhancing your dataset prior to fitting a model. And as you will see, cleaning and tweaking your data can help improve your models accuracy greatly. 
+The project also dwelves into different methods for natural language processing, which include word embedding, tokenization, N-grams and more. If you are a beginner, I hope this will help you start your machine learning journey and 
+give you a good idea on the implementation of the foundation of NLP and ML techniques. 
